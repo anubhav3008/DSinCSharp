@@ -5,13 +5,15 @@ VisualStudioVersion = 16.0.809.9
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SubstringTest", "SubstringTest\SubstringTest.csproj", "{35CA2871-930D-4009-9964-689827C74F75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckElementPresentInArray", "CheckElementPresentInArray\CheckElementPresentInArray.csproj", "{C2FB7B03-09A7-42CE-86A9-C62F4220AE57}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CheckElementPresentInArray", "CheckElementPresentInArray\CheckElementPresentInArray.csproj", "{C2FB7B03-09A7-42CE-86A9-C62F4220AE57}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfPositionWithSameLength", "NumberOfPositionWithSameLength\NumberOfPositionWithSameLength.csproj", "{546168F9-93D1-40C1-B3E6-C837519F858E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberOfPositionWithSameLength", "NumberOfPositionWithSameLength\NumberOfPositionWithSameLength.csproj", "{546168F9-93D1-40C1-B3E6-C837519F858E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUmberOfTimes6AdjacentToEachOther", "NUmberOfTimes6AdjacentToEachOther\NUmberOfTimes6AdjacentToEachOther.csproj", "{3355FF14-0124-4BDC-86D3-38739AA398FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NUmberOfTimes6AdjacentToEachOther", "NUmberOfTimes6AdjacentToEachOther\NUmberOfTimes6AdjacentToEachOther.csproj", "{3355FF14-0124-4BDC-86D3-38739AA398FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotateLeft", "RotateLeft\RotateLeft.csproj", "{50A37670-BF51-4EE2-833B-77E04B4BA48C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RotateLeft", "RotateLeft\RotateLeft.csproj", "{50A37670-BF51-4EE2-833B-77E04B4BA48C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupAnangrams", "GroupAnangrams\GroupAnangrams.csproj", "{C34A50A7-C616-4FB2-AB76-70A4972E00D9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{50A37670-BF51-4EE2-833B-77E04B4BA48C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50A37670-BF51-4EE2-833B-77E04B4BA48C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50A37670-BF51-4EE2-833B-77E04B4BA48C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C34A50A7-C616-4FB2-AB76-70A4972E00D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C34A50A7-C616-4FB2-AB76-70A4972E00D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C34A50A7-C616-4FB2-AB76-70A4972E00D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C34A50A7-C616-4FB2-AB76-70A4972E00D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
