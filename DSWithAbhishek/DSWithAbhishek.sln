@@ -13,7 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NUmberOfTimes6AdjacentToEac
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RotateLeft", "RotateLeft\RotateLeft.csproj", "{50A37670-BF51-4EE2-833B-77E04B4BA48C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupAnangrams", "GroupAnangrams\GroupAnangrams.csproj", "{C34A50A7-C616-4FB2-AB76-70A4972E00D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GroupAnangrams", "GroupAnangrams\GroupAnangrams.csproj", "{C34A50A7-C616-4FB2-AB76-70A4972E00D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordEnds", "WordEnds\WordEnds.csproj", "{78DA3944-3711-4B0D-A927-65594AD579C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WithoutX", "WithoutX\WithoutX.csproj", "{3D889BCC-0DFA-4FA3-99AE-3DC583571D26}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{C34A50A7-C616-4FB2-AB76-70A4972E00D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C34A50A7-C616-4FB2-AB76-70A4972E00D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C34A50A7-C616-4FB2-AB76-70A4972E00D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78DA3944-3711-4B0D-A927-65594AD579C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78DA3944-3711-4B0D-A927-65594AD579C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78DA3944-3711-4B0D-A927-65594AD579C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78DA3944-3711-4B0D-A927-65594AD579C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D889BCC-0DFA-4FA3-99AE-3DC583571D26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D889BCC-0DFA-4FA3-99AE-3DC583571D26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D889BCC-0DFA-4FA3-99AE-3DC583571D26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D889BCC-0DFA-4FA3-99AE-3DC583571D26}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
