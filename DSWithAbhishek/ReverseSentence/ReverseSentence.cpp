@@ -28,6 +28,21 @@ void reverseWord(string &s, size_t i, size_t j) {
     }
 }
 
+
+void reverseSentence(string &s) {
+    size_t i = 0, j = 0;
+    while (j < s.length()) {
+        if (s[j] == '.') {
+            reverseWord(s, i, j - 1);
+            i = j + 1;
+            j = i;
+        }
+        j++;
+    }
+    if (i != j) {
+        reverseWord(s, i, j - 1);
+    }
+    reverseWord(s, 0, s.length() - 1);
 }
 
 
