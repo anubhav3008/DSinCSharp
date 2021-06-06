@@ -5,3 +5,17 @@ DSWithAbhishek/.vs/DSWithAbhishek/v16/.suo
 bin
 obj
 *.v2
+*.pdb
+*.db
+*.db-shm
+*.db-wal
+*.opendb
+*.ipch
+*.ilk
+*.exe
+*.log
+*.recipe
+*.obj
+*.tlog
+*.idb
+*.txt
